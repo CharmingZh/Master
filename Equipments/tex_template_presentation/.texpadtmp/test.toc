@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{数学测试}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{测试}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{分层规格}{5}{0}{1}
+\beamer@sectionintoc {2}{介绍}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{历史}{8}{0}{2}
